@@ -53,3 +53,12 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# This project's build outputs
+school_management
+run_tests
+run_tests_plain
+
+# Runtime-generated files
+central_tech_save.txt
+test_roundtrip.txt
